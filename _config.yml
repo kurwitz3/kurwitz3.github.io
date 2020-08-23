@@ -1,11 +1,11 @@
 # Site settings
-author: Richard Kurwitz
-title: 
+author: Richard Kurwitz 
+title: Why I decided to study Software Engineering 
 header-img: img/home-bg.png
 email: kurwitz3@aol.com
-copyright_name: Richard Kurwitz
+copyright_name: Richard Kurwitz 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kurwitz3
